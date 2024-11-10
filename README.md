@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 🌱 I'm currently learning: **📚 C#& .NET**
+- 🌱 I'm currently learning: **📚 C# & .NET**
 
  **<h3 align="left">Skills</h3>**
 
