@@ -23,6 +23,10 @@
 
  **<h3 align="left">Skills</h3>**
 
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://img.shields.io/badge/Pawn-8A2BE2?logoColor=white" height="32" alt="Pawn">
+</div>
+
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
