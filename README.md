@@ -13,9 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/arman228228" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate back-end Pawn developer</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
+ **<h3 align="left">🚀 Back-end Pawn developer</h3>**
 
 - 🌱 I'm currently learning: **📚 C# & .NET**
 
